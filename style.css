@@ -57,7 +57,7 @@
 .profile-image-container {
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 #contact-info {
@@ -81,9 +81,9 @@
 
 .all-content {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-direction: column;
-    height: 100vh;
+    height: 50vh;
 }
 
 .section-content {
@@ -98,4 +98,8 @@
     border: solid 2px black;
     width: 200px;
     height: 200px;
+}
+
+body {
+    background-color: gray;
 }

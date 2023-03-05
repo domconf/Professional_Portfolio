@@ -47,6 +47,13 @@
     justify-content: space-between;
 }
 
+.portfolio-picture {
+    border-radius: 50%;
+    object-fit: contain;
+    height: 300px;
+    width: 300px;
+}
+
 .contact-info {
     display: flex;
     align-items: center;

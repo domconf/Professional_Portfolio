@@ -1,4 +1,4 @@
-h1 {
+.section-titles {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
     color: red;
@@ -6,6 +6,22 @@ h1 {
     text-indent: 25px;
     text-shadow: 2px 2px 5px gray;
     margin-right: 68.5%;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+}
+
+.name-container {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.links-container {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 h2 {

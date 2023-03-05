@@ -48,7 +48,6 @@
 }
 
 .portfolio-picture {
-    /* border-radius: 25%; */
     height: 350px;
     width: 350px;
     object-fit: contain;
@@ -89,9 +88,6 @@
 .section-content {
     width: 75%;
     text-align: center;
-    /* margin: auto; */
-    /* display: flex;
-    justify-content: ; */
 }
 
 .project-content {
@@ -102,4 +98,9 @@
 
 body {
     background-color: gray;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
 }

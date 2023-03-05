@@ -35,13 +35,13 @@
     text-shadow: 2px 2px 5px gray;
 }
 
-.projects {
+#projects {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.about-me {
+#about-me {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -60,7 +60,7 @@
     margin-top: 30px;
 }
 
-.contact-info {
+#contact-info {
     display: flex;
     align-items: center;
     justify-content: space-between;

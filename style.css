@@ -6,7 +6,7 @@
     width: 25%;
     display: flex;
     justify-content: center;
-    
+
 }
 
 .nav-bar {
@@ -22,9 +22,6 @@
     color: red;
 }
 
-/* .name-container {
-
-} */
 
 .links-container {
     display: flex;
@@ -42,7 +39,6 @@
 #projects {
     display: flex;
     align-items: center;
-    justify-content: space-between;
 }
 
 #about-me {
@@ -80,18 +76,18 @@
 }
 
 .all-projects {
-    display: flex;
     width: 75%;
-    text-align: center;
-    /* flex-direction: column;
-    align-items: center; */
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-left: solid 2px black;
+    padding-left: 25px;
 }
 
 .all-content {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    height: 50vh;
 }
 
 .section-content {
@@ -99,8 +95,6 @@
     text-align: center;
     border-left: solid 2px black;
     padding-left: 25px;
-    /* display: flex;
-    justify-content: space-between; */
 }
 
 .project-content {
@@ -111,20 +105,21 @@
     border-radius: 5px;
 }
 
-h2 {
+/* h2 {
     padding-left: 150px;
 }
 
 h3 {
     padding-left: 60px;
-}
+} */
 
 .project-content-big {
-    border:solid 2px black;
+    border: solid 2px black;
     width: 400px;
     height: 400px;
     display: flex;
     border-radius: 5px;
+
 }
 
 body {
@@ -132,11 +127,35 @@ body {
 }
 
 p {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
 }
 
 .contacts {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: red;
+}
+
+.main-picture {
+    height: 400px;
+    width: 400px;
+    border-radius: 25%;
+}
+
+.main-project {
+    text-align: center;
+}
+
+.small-pictures {
+    height: 250px;
+    width: 250px;
+    border-radius: 25%;
+}
+
+.small-projects {
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin-top: 25px;
+    align-items: center;
 }

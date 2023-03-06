@@ -5,6 +5,22 @@ This project aims to create a professional portfolio that displays applications 
 
 ![image](https://user-images.githubusercontent.com/123976458/223244540-40250efd-32df-45cc-8ba6-7234ef3c7421.png)
 
+## Table of Contents
+- Installation
+- Usage
+- License
+- Author
+
+## Installation
+N/A
+
+## Usage
 Below is a snapshot of my completed professional portfolio.
 
 ![image](https://user-images.githubusercontent.com/123976458/223245701-ad93e616-b556-476f-a112-f601f0769520.png)
+
+## License
+N/A
+
+## Author
+Dominick Confessore

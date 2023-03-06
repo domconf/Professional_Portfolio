@@ -3,6 +3,10 @@
     font-size: 18px;
     color: red;
     text-shadow: 2px 2px 5px black;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    
 }
 
 .nav-bar {
@@ -18,9 +22,9 @@
     color: red;
 }
 
-.name-container {
+/* .name-container {
 
-}
+} */
 
 .links-container {
     display: flex;
@@ -32,7 +36,7 @@
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     color: red;
-    text-shadow: 2px 2px 5px gray;
+    text-shadow: 2px 2px 5px white;
 }
 
 #projects {
@@ -66,12 +70,6 @@
     justify-content: space-between;
 }
 
-.section-titles {
-    width: 25%;
-    display: flex;
-    justify-content: center;
-}
-
 .all-projects {
     display: flex;
     width: 75%;
@@ -96,6 +94,15 @@
     border: solid 2px black;
     width: 200px;
     height: 200px;
+    display: flex;
+    
+}
+
+.project-content-big {
+    border:solid 2px black;
+    width: 400px;
+    height: 400px;
+    display: flex;
 }
 
 body {

@@ -57,6 +57,7 @@
     display: flex;
     justify-content: center;
     margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 #contact-info {
@@ -69,7 +70,6 @@
     width: 25%;
     display: flex;
     justify-content: center;
-    border-right: solid 2px black;
 }
 
 .all-projects {
@@ -88,6 +88,8 @@
 .section-content {
     width: 75%;
     text-align: center;
+    border-left: solid 2px black;
+    padding-left: 25px;
 }
 
 .project-content {

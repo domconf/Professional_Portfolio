@@ -128,7 +128,8 @@ p {
 
 .contacts {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: red;
+    color: black;
+    text-shadow: 2px 2px 3px red;
 }
 
 .main-picture {

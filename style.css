@@ -133,8 +133,8 @@ p {
 }
 
 .main-picture {
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     border-radius: 25%;
     display: flex;
     flex-wrap: wrap;
